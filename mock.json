@@ -1,0 +1,162 @@
+[
+    {
+      "gameImage": "../img/godofwar.jpg",
+      "gameType": "ps4",
+      "gameName": "God Of War",
+      "popular": "3M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 50.3"
+    },
+    {
+      "gameImage": "../img/apexLegend.jpg",
+      "gameType": "pc",
+      "gameName": "Apex Legend",
+      "popular": "5M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 60.2"
+    },
+    {
+      "gameImage": "../img/Bloodborne.jpg",
+      "gameType": "ps4",
+      "gameName": "Blood Borne",
+      "popular": "3M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 90.3"
+    },
+    {
+      "gameImage": "../img/ClashRoyale.jpg",
+      "gameType": "mobile",
+      "gameName": "Clash Royale",
+      "popular": "11M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 20.22"
+    },
+    {
+      "gameImage": "../img/Cod.jpg",
+      "gameName": "Call Of Duty",
+      "gameType": "ps4",
+      "popular": "6M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 30.3"
+    },
+    {
+      "gameImage": "../img/fortnite.jpg",
+      "gameType": "pc",
+      "gameName": "Fortnite",
+      "popular": "12M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 150.3"
+    },
+    {
+      "gameImage": "../img/halfLife.jpg",
+      "gameType": "vr",
+      "gameName": "Half Life",
+      "popular": "7M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 30.21"
+    },
+    {
+      "gameImage": "../img/mineCraft.jpg",
+      "gameType": "vr",
+      "gameName": "Mine Craft",
+      "popular": "30M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 210.3"
+    },
+    {
+      "gameImage": "../img/ml.jpg",
+      "gameType": "mobile",
+      "gameName": "Mobile Legend",
+      "popular": "50M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 5.0"
+    },
+    {
+      "gameImage": "../img/noManSky.jpg",
+      "gameType": "vr",
+      "gameName": "No Man Sky",
+      "popular": "13M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 320.3"
+    },
+    {
+      "gameImage": "../img/PersonaRoyal.jpg",
+      "gameType": "ps4",
+      "gameName": "Person5 Royal",
+      "popular": "11M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 210.22"
+    },
+    {
+      "gameImage": "../img/pokemon.jpg",
+      "gameType": "mobile",
+      "gameName": "Pokemon Go",
+      "popular": "36M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 30.3"
+    },
+    {
+      "gameImage": "../img/RAIDShadowLegends.jpg",
+      "gameType": "mobile",
+      "gameName": "Raid Shadow",
+      "popular": "12M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 150.3"
+    },
+    {
+      "gameImage": "../img/RecRoom.png",
+      "gameType": "vr",
+      "gameName": "Rec Room",
+      "popular": "17M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 300.21"
+    },
+    {
+      "gameImage": "../img/TheWitcherWild Hunt.jpg",
+      "gameType": "ps4",
+      "gameName": "The Witcher",
+      "popular": "32M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 150.3"
+    },
+    {
+      "gameImage": "../img/valorant.jpg",
+      "gameType": "pc",
+      "gameName": "Valorant",
+      "popular": "71M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 600.21"
+    },
+    {
+      "gameImage": "../img/walkingDead.jpg",
+      "gameType": "mobile",
+      "gameName": "Walking Dead",
+      "popular": "30M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 210.3"
+    },
+    {
+      "gameImage": "../img/pubg.jpg",
+      "gameType": "mobile",
+      "gameName": "PUBG",
+      "popular": "50M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 5.0"
+    },
+    {
+      "gameImage": "../img/GTA.jpg",
+      "gameType": "pc",
+      "gameName": "GTA",
+      "popular": "12M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 100.11"
+    },
+    {
+      "gameImage": "../img/gshin.jpg",
+      "gameType": "pc",
+      "gameName": "Genshin",
+      "popular": "21M",
+      "gameDetails": "One of the best ranking game in 1023.",
+      "price": "$ 53.11"
+    }
+  ]
