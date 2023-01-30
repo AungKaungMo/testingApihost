@@ -1,5 +1,5 @@
 {
-"games": [
+"gamesContainer": [
     {
       "gameImage": "../img/godofwar.jpg",
       "gameType": "ps4",
